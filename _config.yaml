@@ -1,1 +1,10 @@
-theme: minima
+title: Sophie Yangs's Data Science Blog
+theme: jekyll-theme-slate
+author: GitHub User
+email:  
+description: 
+
+# social links
+github_username:  
+
+show_excerpts: true # set to false to remove excerpts on the homepage
